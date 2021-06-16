@@ -1,7 +1,3 @@
-/*   Данный скетч модернизация скетча AlexGyver
- *    исходник тут https://github.com/AlexGyver/nRF24L01
-*/
-
 #include <SPI.h>
 #include "nRF24L01.h"
 #include "RF24.h"
